@@ -1,6 +1,6 @@
 ### Profile
 
-I'm a programmer based in Tokyo. My interests are search systems/algorithms, natural language processing, and machine learning. Like coding with Java, Python. Learning Rust.
+I'm a programmer based in Tokyo. My interests are search systems/algorithms, natural language processing, and machine learning. Like coding with Java, Rust, Python.
 Work at [LegalForce, Inc](https://legalforce-corp.com/) as a software engineer (search).
 
 #### OSS Activities
