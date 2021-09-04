@@ -21,5 +21,3 @@ Work at [LegalForce, Inc](https://legalforce-corp.com/) as a software engineer (
 #### Contact
 
 Email: tomoko.uchida.1111 at gmail.com
-
-Twitter: https://twitter.com/moco_beta
