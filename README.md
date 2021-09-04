@@ -17,3 +17,8 @@ Work at [LegalForce, Inc](https://legalforce-corp.com/) as a software engineer (
 
 - https://speakerdeck.com/mocobeta
 - https://www.slideshare.net/tomokouchida505
+
+#### Contact
+
+Email: tomoko.uchida.1111 at gmail.com
+Twitter: https://twitter.com/moco_beta
