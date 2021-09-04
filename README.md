@@ -1,16 +1,19 @@
-### Hi there 👋
+### Profile
 
-<!--
-**mocobeta/mocobeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer based in Tokyo. My interests are search systems/algorithms, natural language processing, and machine learning. Like coding with Java, Python. Learning Rust.
+Work at [LegalForce, Inc](https://legalforce-corp.com/) as a software engineer (search).
 
-Here are some ideas to get you started:
+#### OSS Activities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Committer on [Apache Lucene](https://lucene.apache.org/).
+- Developer of [Janome](https://mocobeta.github.io/janome/en/); this is a Japanese morphological analysis engine (POS tagger) written in Python.
+
+#### Publications (in Japanese)
+
+- [n月刊ラムダノート Vol.3, No.1](https://www.lambdanote.com/collections/n/products/nmonthly-vol-3-no-1-2021) (#1 検索エンジンのしくみ)
+- [改定第3版 Apache Solr入門](https://gihyo.jp/book/2017/978-4-7741-8930-7) (共著)
+
+#### Presentation slides
+
+- https://speakerdeck.com/mocobeta
+- https://www.slideshare.net/tomokouchida505
