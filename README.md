@@ -1,5 +1,5 @@
 
-I'm a programmer based in Tokyo. My interests are search systems/algorithms, natural language processing, and machine learning. I Like coding with Java, Rust, Python. Software engineer at [LegalForce, Inc.](https://legalforce-corp.com/)
+I'm a programmer based in Tokyo. My interests are search systems/algorithms, natural language processing, and machine learning. I Like coding with Java, Rust, Python. Software engineer (search) at [LegalForce, Inc.](https://legalforce-corp.com/)
 
 **OSS Activities:** [Apache Lucene](https://lucene.apache.org/) committer / [Janome](https://mocobeta.github.io/janome/en/) developer
 
