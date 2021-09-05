@@ -7,4 +7,4 @@ I'm a programmer based in Tokyo. My interests are search systems/algorithms, nat
 
 **Presentation Slides:** [SlideShare](https://www.slideshare.net/tomokouchida505) / [Speaker Deck](https://speakerdeck.com/mocobeta)
 
-**Contact:** Email: tomoko.uchida.1111 at gmail.com
+**Contact:** tomoko.uchida.1111 at gmail.com
