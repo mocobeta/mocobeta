@@ -8,5 +8,6 @@
 
 ## Education
 
+- 2021- Ph.D. student in Informatics at University of Tsukuba; KASYS Lab.  
 - 2007 Master's degree in Information Engineering (University of Tsukuba)
 - 2005 Bachelor's degree in Information Engineering (University of Tsukuba)
