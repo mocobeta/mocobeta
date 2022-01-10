@@ -26,6 +26,11 @@ I'm a programmer based in Tokyo. My interests are search systems/algorithms, nat
 - 2007 Master's degree in Information Engineering (University of Tsukuba)
 - 2005 Bachelor's degree in Information Engineering (University of Tsukuba)
 
+## Certification
+
+- 統計検定: 2級
+- TOEIC (Listening & Reading) Score: 830
+
 ## Contact
 
 tomoko.uchida.1111 at gmail com
