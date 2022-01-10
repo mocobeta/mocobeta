@@ -33,4 +33,4 @@ I'm a programmer based in Tokyo. My interests are search systems/algorithms, nat
 
 ## Contact
 
-tomoko.uchida.1111 at gmail com
+tomoko.uchida.1111 at gmail dot com
