@@ -1,6 +1,6 @@
 Tomoko Uchida (打田智子)
 
-I'm a programmer based in Tokyo. My interests are search systems/algorithms, natural language processing, and machine learning. Like coding with Java, Rust, Python. Studying Information Retrieval at University of Tsukuba.
+I'm a programmer based in Tokyo. My interests are search systems/algorithms, natural language processing, and machine learning. Like coding with Java, Rust, Python.
 
 ## OSS Activities
 
