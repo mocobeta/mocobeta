@@ -9,6 +9,7 @@ I'm a programmer based in Tokyo. My interests are search systems/algorithms and 
 
 ## Publications
 
+- [検索システム ― 実務者のための開発改善ガイドブック](https://www.lambdanote.com/products/ir-system)
 - [n月刊ラムダノート Vol.3, No.1](https://www.lambdanote.com/collections/n/products/nmonthly-vol-3-no-1-2021)
 - [改定第3版 Apache Solr入門](https://gihyo.jp/book/2017/978-4-7741-8930-7)
 
