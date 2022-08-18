@@ -1,6 +1,6 @@
 Tomoko Uchida (打田智子)
 
-I'm a programmer based in Tokyo. My interests are search systems/algorithms and natural language processing. Like coding with Java, Rust, Python.
+I'm a programmer, Search Engineer, Software Architect, and technical book author. My interests are search systems/algorithms and natural language processing. Love coding in Java, Rust, Python. I'm also engaged in several popular open source software projects.
 
 ## OSS Activities
 
@@ -15,7 +15,7 @@ I'm a programmer based in Tokyo. My interests are search systems/algorithms and 
 
 ## Work History
 
-- 2019-     株式会社LegalForce, Software Engineer
+- 2019-     株式会社LegalForce, Lead Software Engineer in Search
 - 2017-2019 株式会社ニューズピックス, Software Engineer
 - 2015-2017 株式会社ロンウイット, Technical Consultant
 - 2011-2015 株式会社カカクコム, Software Enginner
@@ -34,4 +34,8 @@ I'm a programmer based in Tokyo. My interests are search systems/algorithms and 
 
 ## Contact
 
-tomoko.uchida.1111 at gmail dot com
+You can find me on LinkedIn. Currently, I'm not actively seeking opportunities but am open to new connections.
+
+https://www.linkedin.com/in/tomoko-uchida-643195249/
+
+Or send an e-mail to tomoko.uchida.1111 at gmail dot com
