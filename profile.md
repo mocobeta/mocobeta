@@ -34,7 +34,7 @@ I'm a programmer, Search Engineer, Software Architect, and technical book author
 
 ## Contact
 
-You can find me on LinkedIn. Currently, I'm not actively seeking opportunities but am open to new connections.
+You can find me on LinkedIn.
 
 https://www.linkedin.com/in/tomoko-uchida-643195249/
 
