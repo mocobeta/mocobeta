@@ -5,8 +5,8 @@ I'm a programmer, Search Engineer, Software Architect, and technical book author
 ## OSS Activities
 
 - [Apache Lucene](https://lucene.apache.org/) committer
-- [Luke - Toolbox for Lucene](https://github.com/DmitryKey/luke) co-maintainer (archived)
-- [Janome](https://mocobeta.github.io/janome/en/) developer
+- [Luke - Toolbox for Apache Lucene](https://github.com/DmitryKey/luke) co-maintainer (archived)
+- [Janome - Japanese morphological anaylis engine written in Python](https://mocobeta.github.io/janome/en/) developer
 
 ## Publications
 
