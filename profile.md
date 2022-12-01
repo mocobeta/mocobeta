@@ -16,7 +16,7 @@ I'm a programmer, Search Engineer, Software Architect, and technical book author
 
 ## Work History
 
-- 2019-     株式会社LegalOn Technologies (旧社名 株式会社LegalForce), Lead Software Engineer / Manager in Search
+- 2019-     株式会社LegalOn Technologies (旧社名 株式会社LegalForce), Lead Software Engineer / Manager in Search & Recommendation
 - 2017-2019 株式会社ニューズピックス, Software Engineer
 - 2015-2017 株式会社ロンウイット, Technical Consultant
 - 2011-2015 株式会社カカクコム, Software Enginner
