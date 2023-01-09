@@ -35,8 +35,10 @@ I'm a programmer, Search Engineer, Software Architect, and technical book author
 
 ## Contact
 
-You can find me on LinkedIn.
+You can find me on SNS.
 
-https://www.linkedin.com/in/tomoko-uchida-643195249/
+LinkedIn https://www.linkedin.com/in/tomoko-uchida-643195249/
+
+Mastodon [@mocobeta@mastodon.online](https://mastodon.online/@mocobeta)
 
 Or send an e-mail to tomoko.uchida.1111 at gmail dot com
