@@ -16,7 +16,7 @@ I'm a programmer, Search Engineer, Software Architect, and technical book author
 
 ## Work History
 
-- 2019-     株式会社LegalOn Technologies (旧社名 株式会社LegalForce), Lead Software Engineer / Manager in Search & Recommendation
+- 2019-     株式会社LegalOn Technologies, Lead Software Engineer in Search & Recommendation
 - 2017-2019 株式会社ニューズピックス, Software Engineer
 - 2015-2017 株式会社ロンウイット, Technical Consultant
 - 2011-2015 株式会社カカクコム, Software Enginner
@@ -24,7 +24,6 @@ I'm a programmer, Search Engineer, Software Architect, and technical book author
 
 ## Education
 
-- 2021- Ph.D. student in Informatics at University of Tsukuba; KASYS Lab.  
 - 2007 Master's degree in Information Engineering (University of Tsukuba)
 - 2005 Bachelor's degree in Information Engineering (University of Tsukuba)
 
@@ -35,10 +34,10 @@ I'm a programmer, Search Engineer, Software Architect, and technical book author
 
 ## Contact
 
-You can find me on SNS.
+You can find me on:
 
 LinkedIn https://www.linkedin.com/in/tomoko-uchida-643195249/
 
 Mastodon [@mocobeta@mastodon.online](https://mastodon.online/@mocobeta)
 
-Or send an e-mail to tomoko.uchida.1111 at gmail dot com
+Email tomoko.uchida.1111 at gmail dot com
