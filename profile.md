@@ -1,11 +1,8 @@
-Tomoko Uchida (打田智子)
+Hi, I'm Tomoko Uchida (打田智子). I am a programmer, Search & NLP Engineer, and technical book author. My interests are search systems/algorithms and machine learning. Love coding with Java, Rust, Python. I'm also engaged in several popular open source software projects.
 
-Hi, I'm a programmer, Search & NLP Engineer, and technical book author. My interests are search systems/algorithms and machine learning. Love coding with Java, Rust, Python. I'm also engaged in several popular open source software projects.
-
-## OSS Activities
+## OSS Activities (highlights)
 
 - [Apache Lucene](https://lucene.apache.org/) committer
-- [Luke - Toolbox for Apache Lucene](https://github.com/DmitryKey/luke) co-maintainer (archived)
 - [Janome - Japanese morphological analysis engine written in Python](https://mocobeta.github.io/janome/en/) developer
 
 ## Publications
@@ -16,7 +13,7 @@ Hi, I'm a programmer, Search & NLP Engineer, and technical book author. My inter
 
 ## Work History
 
-- 2019-     株式会社LegalOn Technologies, Lead Software Engineer in Search & Recommendation
+- 2019-     株式会社LegalOn Technologies, Lead Software Engineer/Manager in Search and Intelligent Document Processing
 - 2017-2019 株式会社ニューズピックス, Software Engineer
 - 2015-2017 株式会社ロンウイット, Technical Consultant
 - 2011-2015 株式会社カカクコム, Software Enginner
@@ -24,6 +21,7 @@ Hi, I'm a programmer, Search & NLP Engineer, and technical book author. My inter
 
 ## Education
 
+- 2021- Ph.D. student studying Information Retrieval and Machine Learning at Univ. Tsukuba; a member of [KASYS](https://kasys.slis.tsukuba.ac.jp/en/).
 - 2007 Master's degree in Information Engineering (University of Tsukuba)
 - 2005 Bachelor's degree in Information Engineering (University of Tsukuba)
 
