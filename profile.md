@@ -13,7 +13,7 @@ Hi, I'm Tomoko Uchida (打田智子). I am a programmer, Search & NLP Engineer, 
 
 ## Work History
 
-- 2019-     株式会社LegalOn Technologies, Lead Software Engineer/Manager in Search and Intelligent Document Processing
+- 2019-     株式会社LegalOn Technologies, Lead Software Engineer/Manager
 - 2017-2019 株式会社ニューズピックス, Software Engineer
 - 2015-2017 株式会社ロンウイット, Technical Consultant
 - 2011-2015 株式会社カカクコム, Software Enginner
