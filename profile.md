@@ -15,11 +15,11 @@ I am a programmer, Search & Machine Learning Engineer, and technical book author
 
 ## Work History
 
-- 2019-     株式会社LegalOn Technologies, Lead Software Engineer/Engineering Manager
-- 2017-2019 株式会社ニューズピックス, Software Engineer
-- 2015-2017 株式会社ロンウイット, Technical Consultant
-- 2011-2015 株式会社カカクコム, Software Enginner
-- 2007-2011 株式会社ビーコンインフォメーションテクノロジー, Software Engineer 
+- 2019-     Lead Software Engineer/Engineering Manager @ 株式会社LegalOn Technologies
+- 2017-2019 Software Engineer @ 株式会社ニューズピックス
+- 2015-2017 Technical Consultant @ 株式会社ロンウイット
+- 2011-2015 Software Engineer @ 株式会社カカクコム
+- 2007-2011 Software Engineer @ 株式会社ビーコンインフォメーションテクノロジー
 
 ## Education
 
