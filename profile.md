@@ -5,7 +5,7 @@ I am a programmer, Search & Machine Learning Engineer, and technical book author
 ## OSS Activities (highlights)
 
 - [Apache Lucene - Search library written entirely in Java](https://lucene.apache.org/) committer
-- [Janome - Japanese morphological analysis engine written entirely in Python](https://mocobeta.github.io/janome/en/) developer
+- [Janome - Japanese tokenizer library written entirely in Python](https://mocobeta.github.io/janome/en/) developer
 
 ## Publications
 
