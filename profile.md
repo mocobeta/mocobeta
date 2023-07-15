@@ -1,6 +1,6 @@
 Hi, I'm Tomoko Uchida (打田智子). 🐾
 
-I am a programmer, Search & NLP Engineer, and technical book author. My interests are search systems/algorithms and machine learning. Love coding with Java, Rust, Python. I'm also engaged in several popular open source software projects.
+I am a programmer, Search & Machine Learning Engineer, and technical book author. My interests are search systems/algorithms and natural language processing. Love coding with Java, Rust, Python. I'm also engaged in several popular open source software projects.
 
 ## OSS Activities (highlights)
 
@@ -15,7 +15,7 @@ I am a programmer, Search & NLP Engineer, and technical book author. My interest
 
 ## Work History
 
-- 2019-     株式会社LegalOn Technologies, Lead Software Engineer/Manager
+- 2019-     株式会社LegalOn Technologies, Lead Software Engineer/Engineering Manager
 - 2017-2019 株式会社ニューズピックス, Software Engineer
 - 2015-2017 株式会社ロンウイット, Technical Consultant
 - 2011-2015 株式会社カカクコム, Software Enginner
