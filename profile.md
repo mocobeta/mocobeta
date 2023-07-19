@@ -6,6 +6,7 @@ I am a programmer, Search Engineer, and technical book author. My interests are 
 
 - [Apache Lucene - Search library written entirely in Java](https://lucene.apache.org/) committer
 - [Janome - Japanese tokenizer library written entirely in Python](https://mocobeta.github.io/janome/en/) developer
+- (Archived) [Luke - GUI tool for introspecting Lucene index](https://github.com/DmitryKey/luke) co-maintainer
 
 ## Publications
 
