@@ -14,6 +14,10 @@ I am a programmer, Search Engineer, and technical book author. My interests are 
 - [n月刊ラムダノート Vol.3, No.1](https://www.lambdanote.com/collections/n/products/nmonthly-vol-3-no-1-2021)
 - [改定第3版 Apache Solr入門](https://gihyo.jp/book/2017/978-4-7741-8930-7)
 
+## Talks
+
+- [Speaker Deck @mocobeta](https://speakerdeck.com/mocobeta)
+
 ## Work History
 
 - 2019-     Lead Software Engineer/Engineering Manager @ 株式会社LegalOn Technologies
@@ -40,5 +44,7 @@ You can find me on:
 LinkedIn https://www.linkedin.com/in/tomoko-uchida-643195249/
 
 Mastodon [@mocobeta@mastodon.online](https://mastodon.online/@mocobeta)
+
+Medium [@mocobeta](https://medium.com/@mocobeta)
 
 Email tomoko.uchida.1111 at gmail dot com
