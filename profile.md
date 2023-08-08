@@ -16,7 +16,7 @@ I am a programmer, Search Engineer, and technical book author. My interests are 
 
 ## Talks
 
-- [Speaker Deck @mocobeta](https://speakerdeck.com/mocobeta)
+- Speaker Deck [@mocobeta](https://speakerdeck.com/mocobeta)
 
 ## Work History
 
