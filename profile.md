@@ -43,6 +43,8 @@ You can find me on:
 
 LinkedIn https://www.linkedin.com/in/tomoko-uchida-643195249/
 
+Bluesky [@mocobeta.bsky.social](https://bsky.app/profile/mocobeta.bsky.social)
+
 Mastodon [@mocobeta@mastodon.online](https://mastodon.online/@mocobeta)
 
 Medium [@mocobeta](https://medium.com/@mocobeta)
