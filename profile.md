@@ -37,7 +37,7 @@ I am a programmer, Search Engineer, and technical book author. My interests are 
 - 統計検定: 2級
 - TOEIC (Listening & Reading) Score: 830
 
-## Contact
+## SNS
 
 You can find me on:
 
@@ -49,4 +49,6 @@ Mastodon [@mocobeta@mastodon.online](https://mastodon.online/@mocobeta)
 
 Medium [@mocobeta](https://medium.com/@mocobeta)
 
-Email tomoko.uchida.1111 at gmail dot com
+## Contact
+
+Send emails to tomoko.uchida.1111 at gmail dot com
