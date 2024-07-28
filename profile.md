@@ -1,6 +1,6 @@
 Hi, I'm Tomoko Uchida (打田智子). 🐾
 
-I am a programmer, Search Engineer, and technical book author. My interests are search systems/algorithms and machine learning. I'm also engaged in several popular open source software projects.
+I am a programmer, Search Engineer, and technical book author. My interests are search and NLP systems/algorithms and machine learning. I'm also engaged in several popular open source software projects.
 
 ## OSS Activities (highlights)
 
@@ -20,7 +20,7 @@ I am a programmer, Search Engineer, and technical book author. My interests are 
 
 ## Work History
 
-- 2024-     Senior Software Development Engineer @ Mapbox
+- 2024-     Senior Software Engineer @ Mapbox
 - 2019-2024 Senior Software Engineer/Engineering Manager @ 株式会社LegalOn Technologies
 - 2017-2019 Software Engineer @ 株式会社ニューズピックス
 - 2015-2017 Technical Consultant @ 株式会社ロンウイット
