@@ -16,7 +16,8 @@ I am a programmer, Search Engineer, and technical book author. My interests are 
 
 ## Talks
 
-- Speaker Deck [@mocobeta](https://speakerdeck.com/mocobeta)
+- 2019/10 [Lucene Kuromoji のコードを読む会 （辞書ビルダー編）](https://speakerdeck.com/mocobeta/lucene-kuromoji-nokodowodu-muhui-ci-shu-birudabian) (検索技術勉強会スピンオフ回)
+- 2015/10 [Pythonで作って学ぶ形態素解析](https://speakerdeck.com/mocobeta/pythondezuo-tutexue-buxing-tai-su-jie-xi) (PyConJP 2015)
 
 ## Work History
 
