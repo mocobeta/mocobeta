@@ -53,4 +53,4 @@ Medium [@mocobeta](https://medium.com/@mocobeta)
 
 ## Contact
 
-Send emails to tomoko.uchida.1111 at gmail dot com
+Send emails to contact@mocobeta.dev
