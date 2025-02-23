@@ -1,1 +1,1 @@
-This has moved to https://blog.mocobeta.dev/.
+This has moved to https://blog.mocobeta.dev/about.
